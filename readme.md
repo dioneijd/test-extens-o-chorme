@@ -1,4 +1,4 @@
-## GOOGLE CHROME EXTESION
+## GOOGLE CHROME EXTENSION
 
 Simple example to implemente a Google Chrome extesion
 
