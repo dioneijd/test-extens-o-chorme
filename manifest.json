@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Test Chrome Extesion",
+    "description": "Teste Extensão Google Chrome",
+    "author": "Dionei J. Delagnolo",
+    "browser_action": {
+   	 "default_title": "First extension",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icon.png"
+    }
+}
